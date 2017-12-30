@@ -25,9 +25,8 @@
 			<artifactId>spring-cloud-starter-ribbon</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.rb.sz.cmb</groupId>
-			<artifactId>common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-hystrix</artifactId>
 		</dependency>
 	</dependencies>
 

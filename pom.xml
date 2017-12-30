@@ -14,8 +14,8 @@
 		<module>zxd</module>
 		<module>common</module>
 		<module>eurekaClient</module>
-            <module>ribbon</module>
-            <module>feign</module>
+		<module>ribbon</module>
+		<module>feign</module>
 
 	</modules>
 
@@ -29,7 +29,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		
 	</dependencies>
 
 	<properties>
