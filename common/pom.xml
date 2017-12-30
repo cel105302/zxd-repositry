@@ -14,5 +14,10 @@
 		<artifactId>zxd-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-
+   <dependencies>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-ribbon</artifactId>
+		</dependency>
+		</dependencies>
 </project>
