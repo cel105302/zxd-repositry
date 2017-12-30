@@ -16,6 +16,8 @@
 		<module>eurekaClient</module>
 		<module>ribbon</module>
 		<module>feign</module>
+		<module>zuul</module>
+<module>configServer</module>
 
 	</modules>
 
